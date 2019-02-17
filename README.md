@@ -1,0 +1,1 @@
+This is an Odin Project challenge to create a simple etch-a-sketch web app. This app will demonstrate the use of basic javascript features as well as the use of event listeners. This app will also demonstrate the use of CSS grid when applying more boxes to the apps grid. 
